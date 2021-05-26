@@ -34,7 +34,7 @@ Jika Ingin Menggunakan Invite Aku Dan Asisstantnya Ke Dalam Group Lalu Angkat Bo
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/PRINCEBOTSUPPORT"
+                        "💬 Group", url="https://t.me/joinchat/Ox6DnOHTf5FlZDk1"
                     ),
                     InlineKeyboardButton(
                         "🔊 Channel", url="https://t.me/MusikManagement"
