@@ -17,8 +17,8 @@ async def start_(client: Client, message: Message):
 Aku Adalah Bot Music Telegram Yang Akan Menemani mu Di Voice Call Group.
 Jika Ingin Menggunakan Invite Aku Dan Asisstantnya Ke Dalam Group Lalu Angkat Bot Menjadi Admin. Jika Ada Kendala Bisa Chat Pemilik Nya.
 ━━━━━━━━━━━━━━
-🤵𝓒𝓻𝓮𝓪𝓽𝓮𝓭 𝓫𝔂 : [loveMe](https://t.me/boyfriendnice)
-☘️𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 : [Grup Support](https://t.me/remaja_virtual62)
+🤵𝓒𝓻𝓮𝓪𝓽𝓮𝓭 𝓫𝔂 : [IKYY](https://t.me/boyfriendnice)
+☘️𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 : [Grup Support](https://t.me/joinchat/Ox6DnOHTf5FlZDk1)
 ━━━━━━━━━━━━━━
 𝐁𝐎𝐓 𝐌𝐔𝐒𝐈𝐊 : @Virtualsong_bot
 𝐀𝐒𝐈𝐒𝐒𝐓𝐀𝐍𝐓 𝐌𝐔𝐒𝐈𝐊 : @AsisstantMusicVirtual
