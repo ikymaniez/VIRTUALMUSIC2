@@ -491,7 +491,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                         text="Group Music",
-                        url="https://t.me/")
+                        url="https://t.me/joinchat/Ox6DnOHTf5FlZDk1")
 
                 ],
                 [       
@@ -624,7 +624,7 @@ async def deezer(client: Client, message_: Message):
              [
                  InlineKeyboardButton(
                      text="Group Music",
-                     url="https://t.me/")
+                     url="https://t.me/joinchat/Ox6DnOHTf5FlZDk1")
 
              ],
              [       
@@ -758,7 +758,7 @@ async def jiosaavn(client: Client, message_: Message):
              [
                InlineKeyboardButton(
                    text="Group Music",
-                   url='https://t.me/MaharashtraTeam')
+                   url="https://t.me/joinchat/Ox6DnOHTf5FlZDk1")
              ],
              [       
                InlineKeyboardButton(
