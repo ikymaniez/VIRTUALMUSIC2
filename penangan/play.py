@@ -491,7 +491,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                         text="OWNER MUSIC",
-                        url="https://t.me/joinchat/boyfriendnice")
+                        url="https://t.me/boyfriendnice")
 
                 ],
                 [       
@@ -758,7 +758,7 @@ async def jiosaavn(client: Client, message_: Message):
              [
                InlineKeyboardButton(
                    text="OWNER MUSIC",
-                   url="https://t.me/joinchat/boyfriendnice")
+                   url="https://t.me/boyfriendnice")
              ],
              [       
                InlineKeyboardButton(
